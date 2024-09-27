@@ -7,9 +7,9 @@ I’m passionate about teaching machines to think, learn, and make sense of the 
 
 
 What am I up to?
-🌟 Deep Learning Research: Constantly exploring new architectures and algorithms.
-💻 Machine Learning Projects: From classic regression models to cutting-edge deep learning frameworks, I love solving problems with AI.
-📚 Lifelong Learning: Obsessed with understanding the math, statistics, and science behind ML & neural nets.
+- 🌟 Deep Learning Research: Constantly exploring new architectures and algorithms.
+- 💻 Machine Learning Projects: From classic regression models to cutting-edge deep learning frameworks, I love solving problems with AI.
+- 📚 Lifelong Learning: Obsessed with understanding the math, statistics, and science behind ML & neural nets.
 
 
 Fun Fact
